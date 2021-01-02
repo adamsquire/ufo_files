@@ -1,0 +1,9 @@
+srcpdfs/*.pdf
+csvs/pdfplumber_csvs/*.csv
+csvs/camelot_csvs/*.csv
+srchtml/*
+outputs/csv/*.csv
+outputs/sqldb/*.db
+notebooks/.ipynb_checkpoints
+notebooks/Generating a Word Cloud.ipynb
+!/**/.gitkeep
